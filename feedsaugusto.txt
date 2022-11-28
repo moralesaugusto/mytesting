@@ -1,2 +1,4 @@
 cnn.com
 npr.org
+www.cnn.com
+www.npr.org
